@@ -1,8 +1,10 @@
 # markdown转微信公众号排版编辑器
 
+
 转化 Markdown 到给微信特制的 HTML
 
 - 使用在线版： http://md.aizhuanqian.online
+- 目前使用的是react版本 https://github.com/TaleAi/markdown2html 
 
 ## 优点
 
